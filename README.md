@@ -21,15 +21,17 @@
 
 ### 🌐 Connect
 
-<p>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://www.linkedin.com/in/mayank-dudi/" />
+<p align="left">
+<a href="https://www.linkedin.com/in/mayank-dudi/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://github.com/mayankdudi">
-<img src="https://github.com/mayankdudi/mayankdudi" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://skillicons.dev/icons?i=vercel" />
+
+<a href="https://mayankdudi.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
 
