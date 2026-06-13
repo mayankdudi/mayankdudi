@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=mayankdudi&label=Profile%20Views&style=for-the-badge" />
 </p>
 
-<p align="center">
+<p align="right">
   <img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
@@ -81,10 +81,6 @@
 `Authentication` • `RBAC` • `Docker`
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayankdudi&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
 <p align="center">
   <i>Turning Ideas Into Scalable Digital Products 🚀</i>
