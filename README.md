@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mayank Kumar</h1>
-<h3 align="center">🚀 Full Stack Engineer | AI Integration Specialist | MERN Stack Expert</h3>
+&lt;p align="center"&gt;
+  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mayank+Kumar;Full+Stack+Engineer;AI+Integration+Specialist;MERN+Stack+Expert;Building+Scalable+Solutions" alt="Typing SVG" /&gt;
+&lt;/p&gt;
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayankdudi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+&lt;p align="center"&gt;
+  &lt;img src="https://github-profile-trophy.vercel.app/?username=mayankdudi&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" /&gt;
+&lt;/p&gt;
 
-<img align="right" alt="Developer" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+&lt;p align="center"&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=mayankdudi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /&gt;
+&lt;/p&gt;
+
+&lt;img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"&gt;
+
+&lt;img align="right" alt="Developer" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"&gt;
 
 ### 👨‍💻 About Me
 
@@ -21,68 +28,96 @@
 
 ### 🌐 Connect With Me
 
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/mayankdudi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
-  </a>
-  <a href="YOUR_TWITTER_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-  </a>
-</p>
+&lt;p align="left"&gt;
+  &lt;a href="https://www.linkedin.com/in/mayankdudi" target="_blank"&gt;
+    &lt;img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://github.com/mayankdudi" target="_blank"&gt;
+    &lt;img src="https://skillicons.dev/icons?i=github" alt="GitHub" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://mayankdudi.vercel.app" target="_blank"&gt;
+    &lt;img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://twitter.com/mayankdudi" target="_blank"&gt;
+    &lt;img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,framer" />
-</p>
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,framer" /&gt;
+&lt;/p&gt;
 
 #### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
-</p>
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" /&gt;
+&lt;/p&gt;
 
 #### AI, Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,python,vercel,aws" />
-</p>
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=docker,git,github,postman,python,vercel,aws" /&gt;
+&lt;/p&gt;
 
 ---
 
 ### 🚀 Featured Projects
 
-**🏫 AI School Management System**  
-A comprehensive enterprise MERN application featuring role-based access control, real-time attendance, examination management, fee processing, notifications, advanced analytics, and **AI-powered insights & predictions**.
+&lt;p align="center"&gt;
+  &lt;a href="https://github.com/mayankdudi/ai-school-management"&gt;
+    &lt;img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayankdudi&repo=ai-school-management&theme=tokyonight&hide_border=true" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://github.com/mayankdudi/smart-complaint-portal"&gt;
+    &lt;img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayankdudi&repo=smart-complaint-portal&theme=tokyonight&hide_border=true" /&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
-**📢 Smart Complaint Portal**  
+&lt;p align="center"&gt;
+  &lt;a href="https://github.com/mayankdudi/whatsapp-automation"&gt;
+    &lt;img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayankdudi&repo=whatsapp-automation&theme=tokyonight&hide_border=true" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://github.com/mayankdudi/gamenexus"&gt;
+    &lt;img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayankdudi&repo=gamenexus&theme=tokyonight&hide_border=true" /&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
+
+&lt;br/&gt;
+
+**🏫 [AI School Management System](https://github.com/mayankdudi/ai-school-management)**  
+`React` `Node.js` `MongoDB` `Express` `AI/ML`  
+Enterprise MERN application with role-based access control, real-time attendance, examination management, fee processing, notifications, advanced analytics, and AI-powered insights & predictions.
+
+**📢 [Smart Complaint Portal](https://github.com/mayankdudi/smart-complaint-portal)**  
+`Next.js` `Node.js` `MongoDB` `AI/ML`  
 Intelligent AI-driven complaint management platform with smart categorization, automated workflow routing, real-time tracking, and powerful admin analytics dashboard.
 
-**🤖 WhatsApp Automation Platform**  
-Scalable automation engine for WhatsApp Business API with template management, conversation workflows, campaign scheduling, and seamless third-party integrations.
+**🤖 [WhatsApp Automation Platform](https://github.com/mayankdudi/whatsapp-automation)**  
+`Node.js` `Express` `MongoDB` `WhatsApp Business API`  
+Scalable automation engine with template management, conversation workflows, campaign scheduling, and seamless third-party integrations.
 
-**🎮 GameNexus**  
-High-performance gaming community landing page built with modern animations, responsive design, and exceptional user experience.
+**🎮 [GameNexus](https://github.com/mayankdudi/gamenexus)**  
+`React` `Tailwind CSS` `Framer Motion`  
+High-performance gaming community landing page with modern animations, responsive design, and exceptional user experience.
 
 ---
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mayankdudi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankdudi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+&lt;p align="center"&gt;
+  &lt;img height="170" src="https://github-readme-stats.vercel.app/api?username=mayankdudi&show_icons=true&theme=tokyonight&hide_border=true" /&gt;
+  &lt;img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankdudi&layout=compact&theme=tokyonight&hide_border=true" /&gt;
+&lt;/p&gt;
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankdudi&theme=tokyonight&hide_border=true" />
-</p>
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankdudi&theme=tokyonight&hide_border=true" /&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankdudi&theme=tokyo-night&hide_border=true" alt="Activity Graph" /&gt;
+&lt;/p&gt;
 
 ---
 
@@ -99,9 +134,9 @@ High-performance gaming community landing page built with modern animations, res
 
 ---
 
-> **"Building scalable digital solutions that drive real impact."**  
-> — Mayank Kumar
+&lt;p align="center"&gt;
+  &lt;img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"&gt;
+&lt;/p&gt;
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayankdudi&theme=tokyonight&row=1&column=6&margin-w=15" />
-</p>
+&gt; &lt;p align="center"&gt;**"Building scalable digital solutions that drive real impact."**&lt;/p&gt;
+&gt; &lt;p align="center"&gt;— Mayank Kumar&lt;/p&gt;
