@@ -58,16 +58,9 @@ A passionate **Full Stack Engineer** with expertise in the **MERN Stack** and **
 
 ---
 
-### 📊 GitHub Analytics
+## 📈 Contribution Graph
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mayankdudi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankdudi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankdudi&theme=tokyonight&hide_border=true" />
-</p>
+[![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayankdudi&theme=tokyo-night&hide_border=true)](https://github.com/mayankdudi)
 
 ---
 
