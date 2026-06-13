@@ -23,10 +23,10 @@
 
 <p>
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://www.linkedin.com/in/mayank-dudi/" />
 </a>
 <a href="https://github.com/mayankdudi">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://github.com/mayankdudi/mayankdudi" />
 </a>
 <a href="YOUR_PORTFOLIO_URL">
 <img src="https://skillicons.dev/icons?i=vercel" />
