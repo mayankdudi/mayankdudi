@@ -23,17 +23,20 @@ A passionate **Full Stack Engineer** with expertise in the **MERN Stack** and **
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/mayank-dudi/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+
   <a href="https://github.com/mayankdudi" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+
+  <a href="https://mayankdudi.vercel.app" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
   </a>
-  <a href="YOUR_TWITTER_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" />
+
+  <a href="mailto:mayankkumardudi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
 
