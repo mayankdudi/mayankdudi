@@ -58,22 +58,6 @@ A passionate **Full Stack Engineer** with expertise in the **MERN Stack** and **
 
 ---
 
-### 🚀 Featured Projects
-
-**🏫 AI School Management System**  
-Enterprise-grade MERN platform with RBAC, real-time attendance & exams, fee management, notifications, analytics dashboard, and **AI-powered insights & predictive analytics**.
-
-**📢 Smart Complaint Portal**  
-AI-enhanced complaint management system featuring intelligent categorization, automated routing, real-time tracking, and comprehensive admin analytics.
-
-**🤖 WhatsApp Automation Platform**  
-Scalable Business API automation engine supporting templates, conversation workflows, scheduled campaigns, and third-party integrations.
-
-**🎮 GameNexus**  
-Modern, responsive gaming landing page with fluid animations, performance optimization, and immersive user experience.
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -96,11 +80,6 @@ Modern, responsive gaming landing page with fluid animations, performance optimi
 - **Role-Based Access Control (RBAC)** & Security
 - **Database Design** & Performance Optimization
 - **System Design** & Cloud Deployment
-
----
-
-> **"Turning innovative ideas into scalable, impactful digital products."**  
-> — Mayank Kumar
 
 ---
 
