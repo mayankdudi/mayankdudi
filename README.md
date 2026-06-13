@@ -58,9 +58,11 @@ A passionate **Full Stack Engineer** with expertise in the **MERN Stack** and **
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
-[![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayankdudi&theme=tokyo-night&hide_border=true)](https://github.com/mayankdudi)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayankdudi&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
