@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Mayank Kumar</h1>
-<h3 align="center">🚀 Full Stack Engineer | AI Integration Specialist | MERN Stack Developer</h3>
+<h3 align="center">🚀 Full Stack Engineer | AI Integration Specialist | MERN Stack Expert</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayankdudi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mayankdudi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Developer" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building **AI-Powered School Management Systems** that streamline education operations.
-- 🌱 Deep diving into **AI Agents, LangGraph, RAG Architectures, and Scalable System Design**.
-- 💻 Passionate **MERN Stack Developer** with expertise in building robust, scalable web applications.
-- 🤖 Specialized in **AI Automation, Intelligent Workflows, and Workflow Orchestration**.
-- 🚀 Strong advocate for clean architecture, performance optimization, and scalable backend systems.
-- 📫 Reach me at: **mayankkumardudi@gmail.com**
+- 🔭 Currently building **AI-Powered School Management Systems** that are transforming educational institutions.
+- 🌱 Deeply exploring **AI Agents, LangGraph, Advanced RAG, Multi-Agent Systems & High-Scale System Design**.
+- 💻 Expert in crafting **scalable, production-grade MERN Stack applications**.
+- 🤖 Passionate about **AI Automation, Intelligent Workflows, and Business Process Optimization**.
+- 🚀 Strong focus on **clean architecture, performance, and developer experience**.
+- 📫 Let's connect: **mayankkumardudi@gmail.com**
 - 📍 Jhunjhunu, Rajasthan, India
+
+---
 
 ### 🌐 Connect With Me
 
@@ -29,6 +31,9 @@
   <a href="YOUR_PORTFOLIO_URL" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
   </a>
+  <a href="YOUR_TWITTER_URL" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
 </p>
 
 ---
@@ -37,17 +42,17 @@
 
 #### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,framer" />
 </p>
 
-#### Backend
+#### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
 </p>
 
-#### Tools & AI/ML
+#### AI, Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,python" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,python,vercel,aws" />
 </p>
 
 ---
@@ -55,42 +60,48 @@
 ### 🚀 Featured Projects
 
 **🏫 AI School Management System**  
-Enterprise-grade MERN application with role-based access control, attendance tracking, examination system, fee management, real-time notifications, analytics dashboard, and **AI-powered insights**.
+A comprehensive enterprise MERN application featuring role-based access control, real-time attendance, examination management, fee processing, notifications, advanced analytics, and **AI-powered insights & predictions**.
 
 **📢 Smart Complaint Portal**  
-AI-driven complaint management platform featuring intelligent ticket categorization, automated workflows, real-time tracking, and admin analytics.
+Intelligent AI-driven complaint management platform with smart categorization, automated workflow routing, real-time tracking, and powerful admin analytics dashboard.
 
 **🤖 WhatsApp Automation Platform**  
-Scalable messaging automation system with multi-template support, workflow orchestration, and seamless API integrations.
+Scalable automation engine for WhatsApp Business API with template management, conversation workflows, campaign scheduling, and seamless third-party integrations.
 
 **🎮 GameNexus**  
-Modern, high-performance gaming landing page with smooth animations, responsive design, and optimized user experience.
+High-performance gaming community landing page built with modern animations, responsive design, and exceptional user experience.
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mayankdudi&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankdudi&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mayankdudi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankdudi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankdudi&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankdudi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🏆 Core Expertise
 
-- Full-Stack Web Development (MERN)
-- RESTful & GraphQL API Development
-- Role-Based Access Control (RBAC) & Authentication
-- Database Design & Optimization (MongoDB, MySQL)
-- AI Integration & Automation Solutions
-- Responsive & Modern UI/UX Development
-- Scalable System Architecture & Backend Engineering
+✅ **Full-Stack Development** (MERN + Next.js)  
+✅ **AI/ML Integration & Automation**  
+✅ **Scalable Backend Architecture**  
+✅ **REST & GraphQL API Design**  
+✅ **Role-Based Access Control (RBAC)**  
+✅ **Database Modeling & Optimization**  
+✅ **Modern Frontend Engineering**  
+✅ **System Design & Performance Tuning**
 
 ---
 
-> **"Turning Ideas Into Scalable Digital Products 🚀"**
+> **"Building scalable digital solutions that drive real impact."**  
+> — Mayank Kumar
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayankdudi&theme=tokyonight&row=1&column=6&margin-w=15" />
+</p>
