@@ -1,134 +1,107 @@
 <h1 align="center">Hi 👋, I'm Mayank Kumar</h1>
-
-<h3 align="center">
-🚀 Full Stack Engineer | AI Integration Specialist | MERN Stack Developer
-</h3>
+<h3 align="center">🚀 Full Stack Engineer & AI Integration Specialist | Building Scalable Digital Solutions with MERN Stack</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayankdudi&label=Profile%20Views&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mayankdudi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/mayankdudi">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;MERN+Stack+Developer;AI+Integration+Specialist;Building+Scalable+Web+Applications;Turning+Ideas+Into+Digital+Products" alt="Typing SVG" />
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### 👨‍💻 About Me
+
+A passionate **Full Stack Engineer** with expertise in the **MERN Stack** and **AI integrations**. I specialize in developing robust, scalable web applications and intelligent automation solutions that deliver real business impact.
+
+- 🔭 Currently architecting **AI-Powered School Management Systems** for modern educational institutions.
+- 🌱 Mastering **AI Agents, LangGraph, Advanced RAG, Multi-Agent Systems, and Large-Scale System Design**.
+- 💻 Expert in crafting **production-grade, high-performance applications**.
+- 🤖 Building **intelligent workflows, AI automation, and seamless business process optimization**.
+- 📍 Based in **Jhunjhunu, Rajasthan, India**
+- 📫 Open for collaboration: **mayankkumardudi@gmail.com**
+
+---
+
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mayankdudi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
+  </a>
+  <a href="YOUR_TWITTER_URL" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 🛠️ Tech Stack
 
-- 🚀 Building scalable and modern web applications
-- 🤖 Developing AI-powered products and automation solutions
-- 🌱 Exploring AI Agents, LangGraph, RAG & System Design
-- 💻 Specialized in MERN Stack Development
-- 🔥 Passionate about clean architecture and performance optimization
-- 📍 Rajasthan, India
-- 📫 **mayankkumardudi@gmail.com**
+#### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,framer" />
+</p>
 
-<p align="center">
-  <img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+#### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+</p>
+
+#### AI, Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=python,docker,git,github,postman,vercel,aws" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### 🚀 Featured Projects
+
+**🏫 AI School Management System**  
+Enterprise-grade MERN platform with RBAC, real-time attendance & exams, fee management, notifications, analytics dashboard, and **AI-powered insights & predictive analytics**.
+
+**📢 Smart Complaint Portal**  
+AI-enhanced complaint management system featuring intelligent categorization, automated routing, real-time tracking, and comprehensive admin analytics.
+
+**🤖 WhatsApp Automation Platform**  
+Scalable Business API automation engine supporting templates, conversation workflows, scheduled campaigns, and third-party integrations.
+
+**🎮 GameNexus**  
+Modern, responsive gaming landing page with fluid animations, performance optimization, and immersive user experience.
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mayank-dudi/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mayankdudi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankdudi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="https://github.com/mayankdudi" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://mayankdudi.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:mayankkumardudi@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankdudi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## ⚡ Tech Stack
+### 🏆 Core Expertise
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,redux,docker,git,github,postman,vscode" />
-</p>
-
----
-
-## 🏆 Core Expertise
-
-### Frontend
-`React.js` • `Next.js` • `Redux Toolkit` • `Tailwind CSS` • `JavaScript` • `TypeScript`
-
-### Backend
-`Node.js` • `Express.js` • `MongoDB` • `MySQL` • `REST APIs`
-
-### DevOps & Tools
-`Docker` • `Git` • `GitHub` • `Postman` • `VS Code`
-
-### AI & Architecture
-`AI Integration` • `RAG` • `LangGraph` • `Authentication` • `RBAC` • `System Design`
+- **MERN Stack** & Modern Frontend Engineering (Next.js + Tailwind)
+- **AI Integration** & Automation Solutions
+- **Scalable Backend Architecture** & Microservices
+- **RESTful & GraphQL APIs**
+- **Role-Based Access Control (RBAC)** & Security
+- **Database Design** & Performance Optimization
+- **System Design** & Cloud Deployment
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mayankdudi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankdudi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankdudi&theme=tokyonight&hide_border=true" />
-</p>
+> **"Turning innovative ideas into scalable, impactful digital products."**  
+> — Mayank Kumar
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|----------|------------|
-| 🏫 School Management System | Complete school administration platform with role-based access control |
-| 📢 Smart Complaint Portal | Complaint tracking, management and resolution system |
-| 🤖 WhatsApp Automation Platform | Automated messaging and workflow management solution |
-| 🎮 GameNexus | Modern gaming community and engagement platform |
-
----
-
-## 🛠️ Currently Working On
-
-- 🤖 AI Agents & Workflow Automation
-- ⚡ Scalable MERN Applications
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 🏗️ Advanced Backend Architecture
-- 🚀 Performance Optimization
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankdudi&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 💡 Fun Fact
-
-```javascript
-const mayank = {
-  code: ["JavaScript", "TypeScript"],
-  frontend: ["React", "Next.js", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js"],
-  database: ["MongoDB", "MySQL"],
-  tools: ["Docker", "Git", "Postman"],
-  passion: "Building AI-Powered Solutions 🚀",
-};
+**Always open to exciting opportunities and collaborations!** 🚀
