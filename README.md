@@ -102,10 +102,6 @@ Modern, responsive gaming landing page with fluid animations, performance optimi
 > **"Turning innovative ideas into scalable, impactful digital products."**  
 > — Mayank Kumar
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayankdudi&theme=tokyonight&row=1&column=6&margin-w=15" />
-</p>
-
 ---
 
 **Always open to exciting opportunities and collaborations!** 🚀
