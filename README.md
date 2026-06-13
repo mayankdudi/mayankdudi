@@ -8,10 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=mayankdudi&label=Profile%20Views&style=for-the-badge" />
 </p>
 
-<p align="right">
-  <img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</p>
-
 ## 👨‍💻 About Me
 
 - 🔭 Building **AI-Powered Web Applications**
@@ -20,6 +16,10 @@
 - 🤖 Creating **Automation & AI Solutions**
 - 📍 Jhunjhunu, Rajasthan, India
 - 📫 **mayankkumardudi@gmail.com**
+
+  <p align="right">
+  <img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>
 
 ---
 
