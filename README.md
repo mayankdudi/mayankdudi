@@ -115,33 +115,6 @@ My expertise lies in developing **MERN Stack applications**, designing robust ba
 
 ---
 
-# 💼 Featured Projects
-
-## 🎓 School Management System
-
-A complete role-based ERP platform featuring:
-
-- Student Management
-- Teacher Management
-- Attendance Tracking
-- Class & Subject Management
-- Administration Dashboard
-- Role-Based Access Control (RBAC)
-
----
-
-## 🤖 AI Automation Solutions
-
-Building intelligent automation systems including:
-
-- AI Chatbots
-- Workflow Automation
-- Business Process Automation
-- AI Agent Integrations
-- Custom AI Solutions
-
----
-
 ## 🌐 Business & Portfolio Websites
 
 Modern, responsive, and SEO-friendly websites built using:
