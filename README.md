@@ -93,28 +93,6 @@ My expertise lies in developing **MERN Stack applications**, designing robust ba
 
 ---
 
-# 🏆 Core Expertise
-
-✔ MERN Stack Development
-
-✔ REST API Development
-
-✔ Authentication & RBAC Systems
-
-✔ Database Design & Optimization
-
-✔ AI Integration & Automation
-
-✔ Backend Architecture & Scalability
-
-✔ Responsive UI Development
-
-✔ Performance Optimization
-
-✔ Cloud Deployment & DevOps
-
----
-
 ## 🌐 Business & Portfolio Websites
 
 Modern, responsive, and SEO-friendly websites built using:
